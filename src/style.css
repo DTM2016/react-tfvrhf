@@ -1,0 +1,19 @@
+/* h1,
+h2,
+p {
+  font-family: Lato;
+  margin: 0px;
+  padding: 0px;
+  xcolor: red;
+} */
+
+div {
+  background-color: rgb(32, 76, 197);
+  padding: 0px;
+}
+
+span.key {
+  font-size: 20px;
+  color: blue;
+  font-weight: bold;
+}

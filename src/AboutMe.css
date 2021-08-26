@@ -1,0 +1,10 @@
+div {
+  background-color: rgba(0, 0, 0, 0.335);
+  border: 2px solid rgb(0, 0, 0);
+}
+
+span.key {
+  font-size: 20px;
+  color: purple;
+  font-weight: bold;
+}
