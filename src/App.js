@@ -7,7 +7,7 @@ export default function App() {
   const [age, setAge] = useState(53);
 
   return (
-    <div>
+    <div xstyle={{ color: 'red' }}>
       <h1>DERIK LEWIS!</h1>
       <hr />
       <span className="key">was born: </span> {stateBorn} <br />

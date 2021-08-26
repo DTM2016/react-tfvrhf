@@ -1,5 +1,5 @@
 import React from 'react';
-// import './AboutMe.css';
+import './AboutMe.css';
 
 export default function AboutMe(props) {
   const { newAg, stars } = props;
