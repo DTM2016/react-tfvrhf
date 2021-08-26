@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import AboutMe from './AboutMe';
-// import './style.css';
+// import './style.css'; iooo
 
 export default function App() {
   const [stateBorn, setStateBorn] = useState('wash dc');
